@@ -1,7 +1,5 @@
 ignore:
   - "request.py"
-  - "**/errors*.py"
-
   
 comment:
   layout: "newheader, diff, flags, files, betaprofiling, newfooter"
