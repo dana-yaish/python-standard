@@ -1,6 +1,5 @@
 ignore:
   - "request.py"
-
   
 comment:
   layout: "newheader, diff, flags, files, betaprofiling, newfooter"
