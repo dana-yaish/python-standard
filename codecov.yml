@@ -1,5 +1,6 @@
 ignore:
   - "request.py"
+  - "**/errors*.py"
 
   
 comment:
