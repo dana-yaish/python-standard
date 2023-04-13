@@ -2,6 +2,6 @@ ignore:
   - "request.py"
   
 comment:
-  layout: "newheader, diff, flags, files, betaprofiling, newfooter"
+  layout: "diff, flags, files"
   show_critical_paths: true
   hide_comment_details: true
