@@ -19,6 +19,4 @@ def uncovered3():
 def uncovered4():
   return True 
 
-def uncovered5():
-  return False
 
